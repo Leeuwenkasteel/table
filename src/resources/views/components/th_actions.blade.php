@@ -1,0 +1,1 @@
+<th class="text-end">{{trans('table::messages.actions')}}</th>
